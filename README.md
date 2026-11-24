@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Vibe Coding Banner">
+  <img src="assets/banner.PNG" width="100%" alt="Vibe Coding Banner">
 </p>
 
 <h1 align="center">VIBE CODING</h1>
